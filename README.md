@@ -11,5 +11,3 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=EhtQuyet&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=EhtQuyet&icon=0&color=10)](https://visitcount.itsvg.in)
